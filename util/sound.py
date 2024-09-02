@@ -22,7 +22,7 @@ class Sound:
         return self._duration
     @duration.setter
     def duration(self,duration):
-        self.duration = duration
+        self._duration = duration
 
     def create_sound(self):
 
