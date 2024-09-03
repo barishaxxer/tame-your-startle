@@ -15,4 +15,4 @@ References[^1]
 
 [^1]: [hear loss](https://www.nidcd.nih.gov/news/2020/do-you-know-how-loud-too-loud#:~:text=Sound%20is%20measured%20in%20units,dBA%20can%20cause%20hearing%20loss.)
 
-[^2]: [startle response](https://www.sciencedirect.com/topics/medicine-and-dentistry/startle-response)
+[^2]:  [startle response](https://www.sciencedirect.com/topics/medicine-and-dentistry/startle-response)
