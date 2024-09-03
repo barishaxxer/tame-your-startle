@@ -3,7 +3,7 @@
 > Long or repeated exposure to sounds at or above 85 dBA can cause hearing loss.
 
 > [!TIP]
-> The acoustic startle response is reliably elicited by bursts of noise or tones having sound pressure levels (SPLs; re 20 μPa) of 80–90 dB and greater.
+> The acoustic startle response is reliably elicited by bursts of noise or tones having sound pressure levels (SPLs; re 20 μPa) of 80–90 dB and greater.[^2]
 
 Train your startle reflex while doing your spreadsheets!
 #### Video Demo: <>
